@@ -2,7 +2,7 @@
 
 **Gush** is a dungeon brawler game built with [Kaboom.js](https://kaboomjs.com/) on [Replit.com](https://replit.com/) for a [1729.com](https://1729.com/) [contest](https://1729.com/replit-kaboom).
 
-You can [play it](https://replit.com/@aMoniker/Gush?v=1) on Replit, or fork the code and make your own version.
+You can [play it](https://replit.com/@VivekMishra7175/Gush-1) on Replit, or fork the code and make your own version.
 
 ## Features
 - Seven playable characters with unique weapons
